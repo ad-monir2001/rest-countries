@@ -1,0 +1,20 @@
+.visited {
+    background-color: rgb(101, 238, 101);
+}
+
+.nonVisited {
+    background-color: rgb(230, 157, 157);
+}
+
+.country {
+    border: 2px solid gray;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.addFlag img{
+    width: 100px;
+    height: 60px;
+    margin: 10px;
+}
